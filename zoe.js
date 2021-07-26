@@ -1,1 +1,2 @@
-let nombre = "Zoe Martinez Barrionuevo"
+let nombre = "Zoe Martinez Barrionuevo";
+let edad = 22;
